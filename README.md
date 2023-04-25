@@ -7,9 +7,6 @@ This is a Node.js application that uses the Express framework and MongoDB databa
 ### Frontend
 https://mobilicis-assignment.vercel.app/
 
-### Backend
-https://vast-tan-gopher-hat.cyclic.app/
-
 ## Setup
 
 To run this application, you need to follow these steps:
