@@ -6,7 +6,7 @@ This is a Node.js application that uses the Express framework and MongoDB databa
 
 https://mobilicis-assignment.vercel.app/
 
-In frontend, it may take some time to load the data 
+In frontend, it may take some time to load the data.
 
 ## Setup
 
