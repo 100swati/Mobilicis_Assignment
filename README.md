@@ -4,7 +4,6 @@ This is a Node.js application that uses the Express framework and MongoDB databa
 
 ## Deployed url
 
-### Frontend
 https://mobilicis-assignment.vercel.app/
 
 ## Setup
